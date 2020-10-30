@@ -5,3 +5,4 @@
 - Swagger
 - Java 8
 - API REST
+- Spring Boot Admin
